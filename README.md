@@ -43,7 +43,7 @@ From the HDL code given formulate the correct code  to divert the traffic to pa
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
+```
 Developed by: Sree Niveditaa Saravanan 
 RegisterNumber: 212223230213
 
@@ -154,6 +154,7 @@ always @(*) begin
 end
 
 endmodule
+```
 
 */
 
