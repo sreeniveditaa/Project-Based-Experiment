@@ -159,11 +159,13 @@ endmodule
 */
 
 **RTL Schematic**
+![image](https://github.com/sreeniveditaa/Project-Based-Experiment/assets/147473268/7d0b0e93-4f49-4933-a77a-3717bf4b5ef3)
 
 **Output Timing Waveform**
+![image](https://github.com/sreeniveditaa/Project-Based-Experiment/assets/147473268/a09cb6bb-ddf7-4132-827a-becaf11652bf)
 
 **Result:**
-
+Thus the design and simulate the traffic light controller are successfullt executed
 
 
 
